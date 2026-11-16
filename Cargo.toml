@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-tool-apis"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS tool-apis component"
+
+[lib]
+name = "tool_apis"
+path = "src/lib.rs"
